@@ -1,0 +1,3 @@
+User-agent;*
+Dissalow:/Usluge/
+sitemap:https://uleza.github.io/sitemap.xml
